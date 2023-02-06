@@ -1,10 +1,10 @@
 {
-  "name": "@peers/webapp",
+  "name": "ozcorp-app",
   "version": "0.1.0",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timermachine/-peers-sample-webapp.git"
+    "url": "git@github.com:shorttasks/ozcorp-app.git"
   },
   "keywords": [],
   "author": "",
